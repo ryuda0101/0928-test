@@ -18,6 +18,8 @@ img {
 body {
   line-height: 1;
   font-size: 20px;
+  font-size: 20px;
+  background-color: darkcyan;
 }
 
 #header {
